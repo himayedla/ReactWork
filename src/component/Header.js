@@ -22,7 +22,7 @@ class Header extends Component{
         return(
             <header>
                 <div className="logo"
-                    onClick={()=>console.log("clicked")}>
+                    onClick={()=>console.log("clickedd")}>
                         {this.state.title}
                 </div>
                 <center>
