@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Fruit",
+        "type":"apple"
+    },
+    {
+        "id":2,
+        "title":"flower",
+        "type":"rose"
+    },
+    {
+        "id":3,
+        "title":"electronics",
+        "type":"laptop"
+    },
+    {
+        "id":4,
+        "title":"animal",
+        "type":"cat"
+    },
+    {
+        "id":5,
+        "title":"veggie",
+        "type":"carrot"
+    }
+]
